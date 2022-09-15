@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\Assignment1_Csharp\Assignment1_Csharp\bin\Debug\Assignment1_Csharp.dll
+C:\Users\ASUS\source\repos\Assignment1_Csharp\Assignment1_Csharp\bin\Debug\Assignment1_Csharp.pdb
+C:\Users\ASUS\source\repos\Assignment1_Csharp\Assignment1_Csharp\obj\Debug\Assignment1_Csharp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Assignment1_Csharp\Assignment1_Csharp\obj\Debug\Assignment1_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Assignment1_Csharp\Assignment1_Csharp\obj\Debug\Assignment1_Csharp.dll
+C:\Users\ASUS\source\repos\Assignment1_Csharp\Assignment1_Csharp\obj\Debug\Assignment1_Csharp.pdb
